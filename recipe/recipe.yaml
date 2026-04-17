@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.11"
-  version: "0.2.1"
+  version: "0.2.2"
 
 package:
   name: signurlarity
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/signurlarity/signurlarity-${{ version }}.tar.gz
-  sha256: 7a908c712c8e2bfea8273ee06a9ea8c381fa82fa932579e59982d7863f9a4353
+  sha256: 6212860f849edcf565ff002a55114779d2df20847a2828548ab3c8b8beb0e9d2
 
 build:
   number: 0
